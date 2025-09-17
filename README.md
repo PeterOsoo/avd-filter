@@ -42,7 +42,7 @@ It rebuilds these sheets fresh on every run to ensure clean, up-to-date results.
 ## Setup Instructions
 1. Open your Google Sheet.  
 2. Go to **Extensions > Apps Script**.  
-3. Copy the code from [`Code.gs`](./Code.gs) into the editor.  
+3. Copy the code from [`Code.js`](./Code.js) into the editor.  
 4. Update the following if needed:  
    - `SourceData` → replace with the name of your input sheet.  
    - `"TargetCategory"` → replace with the category/condition relevant to your data.  
